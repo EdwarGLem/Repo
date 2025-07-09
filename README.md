@@ -2,5 +2,6 @@
 
 Prueba
 
-github pull
+github push
 prueba  
+pull
